@@ -9,6 +9,8 @@
 
 ### SUMMARY:
 
+I want to get Web Developer qualification.
+
 ### SKILLS
 
 ##### Soft Skills: 
@@ -44,6 +46,8 @@
 Check out my [Github](https://github.com/yurkevich-serj)
 
 ### EXPERIENCE:
+
+I finished Java course at It-academy. Also did some courses in the internet such as codecadem, coursera, udemy and etc.
 
 ### EDUCATION:
 
