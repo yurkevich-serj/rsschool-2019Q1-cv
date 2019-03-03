@@ -15,14 +15,14 @@ I want to get Web Developer qualification.
 
 ##### Soft Skills: 
 
-* conscientious
-* leadership
-* communication
-* creativity
-* critical thinking
-* problem solving
-* enthusiasm 
-* adaptability
+* Conscientious
+* Leadership
+* Communication
+* Creativity
+* Critical thinking
+* Problem solving
+* Enthusiasm 
+* Adaptability
 
 ##### Hard Skills
 
