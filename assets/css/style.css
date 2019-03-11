@@ -11,6 +11,7 @@ html {
 .container {
     margin: 0 auto;
     width: 1022px;
+    min-height: calc(100vh - 80px);
 }
 body {
     background-size: cover;
@@ -46,8 +47,7 @@ nav ul {
 .article {
     display: flex;
     justify-content: center;
-    margin-top: 70px;
-    margin-bottom: 70px;
+    margin: 70px 115px;
 }
 
 .article img {
@@ -64,13 +64,44 @@ nav ul {
 
  figure h4 {
      padding-top: 10px;
+     margin-bottom: 10px;
  }
+
+
 
  .social a {
     background: rgba(8, 8, 128, 0.788);
-    padding: 5px;
-    font-size: 8px;
+    font-size: 40px;
+    font-weight: bold;
     text-decoration: none;
+    color: white;
+    border-radius: 20%;
+}
+
+.skills p, .univer p {
+    padding-top: 10px;
+    text-align: justify;
+    word-spacing: 5px;
+}
+
+.univer {
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+footer {
+    background-color: #323232;
+    height: 80px;
+}
+
+.contacts {
+    margin: 30px;
+}
+
+.contacts a{
+    
 }
  
 
