@@ -90,3 +90,19 @@ nav ul {
     margin-top: 120px;
     margin-bottom: 120px;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #323232;
+    height: 80px;
+    padding-top: 10px;
+}
+
+.contacts ul {
+    list-style-type: none;
+}
+
+.contacts a{
+    text-decoration: none;
+}
